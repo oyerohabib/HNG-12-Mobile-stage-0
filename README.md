@@ -29,7 +29,7 @@ This repository contains a React Native mobile application created as part of th
 1. Clone the repository:
 
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/oyerohabib/HNG-12-Mobile-stage-0.git
    ```
 
 2. Navigate to the project directory:
@@ -65,7 +65,7 @@ npx react-native run-android
 ## Live Demo
 
 You can try out the app directly in your browser using the Appetize.io link below:
-[Appetize.io Link] (Will be updated after deployment)
+[Appetize.io Link] (https://appetize.io/app/b_yspdqlu3q4dsxio2rw3br4kwui)
 
 ## License
 
